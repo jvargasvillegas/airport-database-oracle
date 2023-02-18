@@ -1,0 +1,35 @@
+begin
+   insert into aerolinea values (sys_guid(), 'Delta');
+    insert into aerolinea values (sys_guid(), 'American Airlines');
+    insert into aerolinea values (sys_guid(), 'KLM');
+    insert into aerolinea values (sys_guid(), 'Air Canada');
+    insert into aerolinea values (sys_guid(), 'Copa Airlines');
+    insert into aerolinea values (sys_guid(), 'Volaris');
+    insert into aerolinea values (sys_guid(), 'Air New Zealand');
+    insert into aerolinea values (sys_guid(), 'Japan Airlines');
+    insert into aerolinea values (sys_guid(), 'Qatar Airways');
+    insert into aerolinea values (sys_guid(), 'Jet2');
+    insert into aerolinea values (sys_guid(), 'Air France');
+    insert into aerolinea values (sys_guid(), 'Air Panama');
+    insert into aerolinea values (sys_guid(), 'Air Transat');
+    insert into aerolinea values (sys_guid(), 'Alaska');
+    insert into aerolinea values (sys_guid(), 'Avianca');
+    insert into aerolinea values (sys_guid(), 'British Airways');
+    insert into aerolinea values (sys_guid(), 'Condor');
+    insert into aerolinea values (sys_guid(), 'IBERIA');
+    insert into aerolinea values (sys_guid(), 'Interjet');
+    insert into aerolinea values (sys_guid(), 'LATAM Airlines Group');
+    insert into aerolinea values (sys_guid(), 'JetBlue');
+    insert into aerolinea values (sys_guid(), 'UNITED');
+    insert into aerolinea values (sys_guid(), 'Spirit');
+    insert into aerolinea values (sys_guid(), 'WestJet');
+    insert into aerolinea values (sys_guid(), 'Lufthansa');
+    insert into aerolinea values (sys_guid(), 'Air Berlin');
+    insert into aerolinea values (sys_guid(), 'Eurowings');
+    insert into aerolinea values (sys_guid(), 'Air Europa');
+    insert into aerolinea values (sys_guid(), 'Easetern Airways');
+    insert into aerolinea values (sys_guid(), 'Copa Airlines Colombia');
+    insert into aerolinea values (sys_guid(), 'Aeroméxico');
+    insert into aerolinea values (sys_guid(), 'Aerolíneas Argentinas');
+    insert into aerolinea values (sys_guid(), 'US Airways');
+end
